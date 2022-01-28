@@ -6,7 +6,7 @@
 
 <p align="center">Current Members:</p>
 <p align="center"><a href="https://github.com/CaseyJoK" target="_blank">Casey-Jo Kenny</a> - Programmer/Project Manager</p>
-<p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Programmer.</p>
-<p align="center"><a href="https://github.com/shoaibramzan" target="_blank">Shoaib Ramzan</a> - Programmer.</p>
-<p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - Programmer.</p>
-<p align="center"><a href="" target="_blank">Owen Cooke</a> - Game Designer.</p>
+<p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Programmer</p>
+<p align="center"><a href="https://github.com/shoaibramzan" target="_blank">Shoaib Ramzan</a> - Programmer</p>
+<p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - Programmer</p>
+<p align="center"><a href="" target="_blank">Owen Cooke</a> - Game Designer</p>
