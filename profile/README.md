@@ -11,4 +11,4 @@
 <p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - AI Programmer / World Designer <a href="https://www.linkedin.com/in/joshua-long-58412518a" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="" target="_blank">Owen Cooke</a> - Game / Level Designer</p>
 
-<h1 align="center"><a href="src="https://www.youtube.com/embed/tgbNymZ7vqY">Labyrinth Gameplay Demo</a></h1>
+<h1 align="center"><a href="https://www.youtube.com/embed/tgbNymZ7vqY">Labyrinth Gameplay Demo</a></h1>
