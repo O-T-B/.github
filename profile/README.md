@@ -11,6 +11,5 @@
 <p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - AI Programmer / World Designer <a href="https://www.linkedin.com/in/joshua-long-58412518a" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/TomBoothy" target="_blank">Tom Booth</a> - UI/Gameplay Programmer <a href="" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/Olaf1011" target="_blank">Olaf Oude Reimer</a> - Gameplay/Graphics Programmer <a href="https://www.linkedin.com/in/olaf-oude-reimer/" target="_blank">(LinkedIn)</a></p>
-<p align="center"><a href="" target="_blank">Owen Cooke</a> - Game / Level Designer</p>
 
 <h1 align="center"><a href="https://youtu.be/67PO-1RfvE0">Labyrinth Gameplay Demo</a></h1>
