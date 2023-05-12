@@ -1,9 +1,9 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/O-T-B/.github/main/profile/logo.svg" width="20%"></p>
 
-<h1 align="center">O.T.B</h1>
+<h1 align="center">Labyrinth Games</h1>
 <h2 align="center">Student-composed game creation group based at Sheffield Hallam University.</h2>
-<h2 align="center">Current Project: LABYRINTH</h2>
+<h2 align="center">Current Project: Labyrinthia - Lost Realms</h2>
 
 <p align="center"><a href="https://github.com/CaseyJoK" target="_blank">Casey-Jo Kenny</a> - Programmer / Project Manager <a href="https://www.linkedin.com/in/caseyjokenny" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Lead Programmer / Auxiliary Artist <a href="https://www.linkedin.com/in/chae-taylor-001/" target="_blank">(LinkedIn)</a></p>
