@@ -9,7 +9,7 @@
 <p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Lead Programmer / Auxiliary Artist <a href="https://www.linkedin.com/in/chae-taylor-001/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/shoaibramzan" target="_blank">Shoaib Ramzan</a> - Programmer / Sound Engineer <a href="https://www.linkedin.com/in/shoaib-ramzan-0904a3195/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - AI Programmer / World Designer <a href="https://www.linkedin.com/in/joshua-long-58412518a" target="_blank">(LinkedIn)</a></p>
-<p align="center"><a href="https://github.com/TomBoothy" target="_blank">Tom Booth</a> - UI/Gameplay Programmer <a href="" target="https://www.linkedin.com/in/tom-booth-06872b207/">(LinkedIn)</a></p>
+<p align="center"><a href="https://github.com/TomBoothy" target="_blank">Tom Booth</a> - UI/Gameplay Programmer <a href="https://www.linkedin.com/in/tom-booth-06872b207/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/Olaf1011" target="_blank">Olaf Oude Reimer</a> - Gameplay/Graphics Programmer <a href="https://www.linkedin.com/in/olaf-oude-reimer/" target="_blank">(LinkedIn)</a></p>
 
 <h1 align="center"><a href="https://youtu.be/67PO-1RfvE0">Labyrinth Gameplay Demo</a></h1>
