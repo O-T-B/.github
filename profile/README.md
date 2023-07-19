@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/O-T-B/.github/main/profile/logo.svg" width="20%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/O-T-B/.github/main/profile/logo-rounded.png" width="20%"></p>
 
 <h1 align="center">Labyrinth Games</h1>
 <h2 align="center">Student-composed game creation group based at Sheffield Hallam University.</h2>
