@@ -12,4 +12,5 @@
 <p align="center"><a href="https://github.com/TomBoothy" target="_blank">Tom Booth</a> - UI/Gameplay Programmer <a href="https://www.linkedin.com/in/tom-booth-06872b207/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/Olaf1011" target="_blank">Olaf Oude Reimer</a> - Gameplay/Graphics Programmer <a href="https://www.linkedin.com/in/olaf-oude-reimer/" target="_blank">(LinkedIn)</a></p>
 
-<h1 align="center"><a href="https://youtu.be/67PO-1RfvE0">Labyrinth Gameplay Demo</a></h1>
+<h1 align="center"><a href="https://youtu.be/N6892pSsgTQ">Labyrinthia: Lost Realms - Gameplay Demo (2023)</a></h1>
+<h1 align="center"><a href="https://youtu.be/67PO-1RfvE0">Labyrinth Gameplay Demo (2022)</a></h1>
