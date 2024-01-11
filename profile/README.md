@@ -6,7 +6,7 @@
 <h2 align="center">Current Project: Labyrinthia - Lost Realms</h2>
 
 <p align="center"><a href="https://github.com/CaseyJoK" target="_blank">Casey-Jo Kenny</a> - Programmer / Producer <a href="https://www.linkedin.com/in/caseyjokenny" target="_blank">(LinkedIn)</a></p>
-<p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Lead Programmer / Auxiliary Artist <a href="https://www.linkedin.com/in/chae-taylor-001/" target="_blank">(LinkedIn)</a></p>
+<p align="center"><a href="https://github.com/SuperslowJelly" target="_blank">Chae Taylor</a> - Lead Programmer / Auxiliary Artist <a href="https://www.linkedin.com/in/chae-taylor/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/shoaibramzan" target="_blank">Shoaib Ramzan</a> - Programmer / Sound Engineer <a href="https://www.linkedin.com/in/shoaib-ramzan-0904a3195/" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/Hoopie801" target="_blank">Josh Long</a> - Lead Designer / Project Manager <a href="https://www.linkedin.com/in/joshua-long-58412518a" target="_blank">(LinkedIn)</a></p>
 <p align="center"><a href="https://github.com/TomBoothy" target="_blank">Tom Booth</a> - UI/Gameplay Programmer <a href="https://www.linkedin.com/in/tom-booth-06872b207/" target="_blank">(LinkedIn)</a></p>
